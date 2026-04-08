@@ -1,0 +1,2539 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "5ce10890-ec2e-4d94-ab94-dfd6050270b1")
+	(paper "A3")
+	(lib_symbols
+		(symbol "Innotech:Omni_C40"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at -55.88 8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at -55.88 8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -55.88 8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -55.88 8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at -55.88 8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Omni_C40_1_1"
+				(rectangle
+					(start -69.85 12.7)
+					(end 69.85 -11.43)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 255 255 194 1)
+					)
+				)
+				(pin input line
+					(at -67.31 15.24 270)
+					(length 2.54)
+					(name "24V+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -67.31 -13.97 90)
+					(length 2.54)
+					(name "24V+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -64.77 15.24 270)
+					(length 2.54)
+					(name "24V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -64.77 -13.97 90)
+					(length 2.54)
+					(name "24V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -62.23 15.24 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -62.23 -13.97 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -59.69 -13.97 90)
+					(length 2.54)
+					(name "ISS+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -57.15 -13.97 90)
+					(length 2.54)
+					(name "ISS-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -54.61 15.24 270)
+					(length 2.54)
+					(name "UIO/1+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -54.61 -13.97 90)
+					(length 2.54)
+					(name "UIO/21+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -52.07 15.24 270)
+					(length 2.54)
+					(name "UIO/1-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -52.07 -13.97 90)
+					(length 2.54)
+					(name "UIO/21-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -49.53 15.24 270)
+					(length 2.54)
+					(name "UIO/2+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -49.53 -13.97 90)
+					(length 2.54)
+					(name "UIO/22+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -46.99 15.24 270)
+					(length 2.54)
+					(name "UIO/2-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -46.99 -13.97 90)
+					(length 2.54)
+					(name "UIO/22-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -44.45 15.24 270)
+					(length 2.54)
+					(name "UIO/3+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -44.45 -13.97 90)
+					(length 2.54)
+					(name "UIO/23+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -41.91 15.24 270)
+					(length 2.54)
+					(name "UIO/3-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -41.91 -13.97 90)
+					(length 2.54)
+					(name "UIO/23-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -39.37 15.24 270)
+					(length 2.54)
+					(name "UIO/4+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -39.37 -13.97 90)
+					(length 2.54)
+					(name "UIO/24+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -36.83 15.24 270)
+					(length 2.54)
+					(name "UIO/4-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -36.83 -13.97 90)
+					(length 2.54)
+					(name "UIO/24-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -34.29 15.24 270)
+					(length 2.54)
+					(name "UIO/5+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -34.29 -13.97 90)
+					(length 2.54)
+					(name "UIO/25+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -31.75 15.24 270)
+					(length 2.54)
+					(name "UIO/5-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -31.75 -13.97 90)
+					(length 2.54)
+					(name "UIO/25-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -29.21 15.24 270)
+					(length 2.54)
+					(name "UIO/6+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -29.21 -13.97 90)
+					(length 2.54)
+					(name "UIO/26+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -26.67 15.24 270)
+					(length 2.54)
+					(name "UIO/6-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -26.67 -13.97 90)
+					(length 2.54)
+					(name "UIO/26-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -24.13 15.24 270)
+					(length 2.54)
+					(name "UIO/7+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -24.13 -13.97 90)
+					(length 2.54)
+					(name "UIO/27+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -21.59 15.24 270)
+					(length 2.54)
+					(name "UIO/7-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -21.59 -13.97 90)
+					(length 2.54)
+					(name "UIO/27-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 15.24 270)
+					(length 2.54)
+					(name "UIO/8+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -19.05 -13.97 90)
+					(length 2.54)
+					(name "UIO/28+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 15.24 270)
+					(length 2.54)
+					(name "UIO/8-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 -13.97 90)
+					(length 2.54)
+					(name "UIO/28-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -13.97 15.24 270)
+					(length 2.54)
+					(name "UIO/9+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -13.97 -13.97 90)
+					(length 2.54)
+					(name "UIO/29+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -11.43 15.24 270)
+					(length 2.54)
+					(name "UIO/9-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -11.43 -13.97 90)
+					(length 2.54)
+					(name "UIO/29-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -8.89 15.24 270)
+					(length 2.54)
+					(name "UIO/10+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -8.89 -13.97 90)
+					(length 2.54)
+					(name "UIO/30+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -6.35 15.24 270)
+					(length 2.54)
+					(name "UIO/10-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -6.35 -13.97 90)
+					(length 2.54)
+					(name "UIO/30-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -3.81 15.24 270)
+					(length 2.54)
+					(name "UIO/11+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -3.81 -13.97 90)
+					(length 2.54)
+					(name "UIO/31+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -1.27 15.24 270)
+					(length 2.54)
+					(name "UIO/11-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -1.27 -13.97 90)
+					(length 2.54)
+					(name "UIO/31-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 1.27 15.24 270)
+					(length 2.54)
+					(name "UIO/12+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 1.27 -13.97 90)
+					(length 2.54)
+					(name "UIO/32+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 3.81 15.24 270)
+					(length 2.54)
+					(name "UIO/12-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 3.81 -13.97 90)
+					(length 2.54)
+					(name "UIO/32-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 6.35 15.24 270)
+					(length 2.54)
+					(name "UIO/13+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 6.35 -13.97 90)
+					(length 2.54)
+					(name "UIO/33+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 8.89 15.24 270)
+					(length 2.54)
+					(name "UIO/13-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 8.89 -13.97 90)
+					(length 2.54)
+					(name "UIO/33-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 11.43 15.24 270)
+					(length 2.54)
+					(name "UIO/14+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 11.43 -13.97 90)
+					(length 2.54)
+					(name "UIO/34+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 13.97 15.24 270)
+					(length 2.54)
+					(name "UIO/14-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 13.97 -13.97 90)
+					(length 2.54)
+					(name "UIO/34-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 16.51 15.24 270)
+					(length 2.54)
+					(name "UIO/15+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 16.51 -13.97 90)
+					(length 2.54)
+					(name "UIO/35+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 15.24 270)
+					(length 2.54)
+					(name "UIO/15-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 19.05 -13.97 90)
+					(length 2.54)
+					(name "UIO/35-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 21.59 15.24 270)
+					(length 2.54)
+					(name "UIO/16+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 21.59 -13.97 90)
+					(length 2.54)
+					(name "UIO/36+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 15.24 270)
+					(length 2.54)
+					(name "UIO/16-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 24.13 -13.97 90)
+					(length 2.54)
+					(name "UIO/36-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 26.67 15.24 270)
+					(length 2.54)
+					(name "UIO/17+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 26.67 -13.97 90)
+					(length 2.54)
+					(name "UIO/37+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 29.21 15.24 270)
+					(length 2.54)
+					(name "UIO/17-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 29.21 -13.97 90)
+					(length 2.54)
+					(name "UIO/37-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 31.75 15.24 270)
+					(length 2.54)
+					(name "UIO/18+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 31.75 -13.97 90)
+					(length 2.54)
+					(name "UIO/38+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 34.29 15.24 270)
+					(length 2.54)
+					(name "UIO/18-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 34.29 -13.97 90)
+					(length 2.54)
+					(name "UIO/38-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 36.83 15.24 270)
+					(length 2.54)
+					(name "UIO/19+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 36.83 -13.97 90)
+					(length 2.54)
+					(name "UIO/39+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 39.37 15.24 270)
+					(length 2.54)
+					(name "UIO/19-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 39.37 -13.97 90)
+					(length 2.54)
+					(name "UIO/39-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 41.91 15.24 270)
+					(length 2.54)
+					(name "UIO/20+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 41.91 -13.97 90)
+					(length 2.54)
+					(name "UIO/40+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 44.45 15.24 270)
+					(length 2.54)
+					(name "UIO/20-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 44.45 -13.97 90)
+					(length 2.54)
+					(name "UIO/40-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.99 15.24 270)
+					(length 2.54)
+					(name "RS485/1+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 49.53 15.24 270)
+					(length 2.54)
+					(name "RS485/1-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 52.07 15.24 270)
+					(length 2.54)
+					(name "RS485/1S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 54.61 15.24 270)
+					(length 2.54)
+					(name "RS485/2+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 57.15 15.24 270)
+					(length 2.54)
+					(name "RS485/2-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 59.69 15.24 270)
+					(length 2.54)
+					(name "RS485/2S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 62.23 15.24 270)
+					(length 2.54)
+					(name "RS485/3+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 64.77 15.24 270)
+					(length 2.54)
+					(name "RS485/3-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 67.31 15.24 270)
+					(length 2.54)
+					(name "RS485/3S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Innotech:Temperature_Sensor"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Temperature_Sensor_0_1"
+				(polyline
+					(pts
+						(xy -4.064 1.016) (xy -4.064 1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -1.27) (xy 2.54 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Temperature_Sensor_1_1"
+				(polyline
+					(pts
+						(xy -6.858 0.762) (xy -6.858 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -6.858 0.254)
+					(end -6.604 -0.254)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 0 1)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.604 0.762) (xy -6.604 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.826 0.762) (xy -4.826 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.572 0.508) (xy -4.572 -0.508)
+					)
+					(stroke
+						(width 0.5)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 0.508) (xy -3.81 -0.508)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 0.508) (xy -4.826 0.762) (xy -6.858 0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 -0.508) (xy -4.826 -0.762) (xy -6.858 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 2.54)
+					(end 6.35 -2.54)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0.254) (xy -3.81 0.254)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -0.254) (xy -3.81 -0.254)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 4.45 0)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "RJ45"
+					(at -5.842 0 900)
+					(effects
+						(font
+							(size 0.3 0.3)
+							(color 0 0 0 1)
+						)
+					)
+				)
+				(text "T"
+					(at 3.81 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+							(color 0 0 0 1)
+						)
+						(justify left)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Omni_C40")
+		(at 210.82 138.43 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6945e93d-6f74-4277-8464-e803149f6398")
+		(property "Reference" "U1"
+			(at 139.7 137.7949 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" ""
+			(at 154.94 129.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 154.94 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "d646b620-6b2f-4b05-8909-3716f805d5be")
+		)
+		(pin ""
+			(uuid "9cac121c-4c57-4508-947e-1d80b176d676")
+		)
+		(pin ""
+			(uuid "aac27f44-5bcb-49cf-b9ad-5f09d660cb6d")
+		)
+		(pin ""
+			(uuid "e4ad23c7-5c34-4d66-b346-273b9021c5e5")
+		)
+		(pin ""
+			(uuid "4dac7dff-453f-44e0-a8b1-199a0533b192")
+		)
+		(pin ""
+			(uuid "4146c4ea-6906-4aa6-be33-51f4a800dfd3")
+		)
+		(pin ""
+			(uuid "64358847-dd6c-450e-94f5-8833ea4e0d9b")
+		)
+		(pin ""
+			(uuid "76bd07a6-b61b-451b-bc59-887ba82a2c2b")
+		)
+		(pin ""
+			(uuid "49da1532-1671-47c3-ba49-8a79a2457fee")
+		)
+		(pin ""
+			(uuid "a7933a60-3935-4818-a285-b473fe76a973")
+		)
+		(pin ""
+			(uuid "c0df5076-7e60-4bd1-ac77-feb8ebd7db21")
+		)
+		(pin ""
+			(uuid "3d3e3ac9-a21e-4de7-bb86-4caf522a5a87")
+		)
+		(pin ""
+			(uuid "53f1810f-36c6-48a6-ab70-0761308dc699")
+		)
+		(pin ""
+			(uuid "b2ec2987-8876-463f-bf99-f53b803a7d89")
+		)
+		(pin ""
+			(uuid "31aae2d9-5e96-4422-867d-7da313713dcd")
+		)
+		(pin ""
+			(uuid "f780084c-02f4-4f92-9fd2-1c0ffdb6bbcc")
+		)
+		(pin ""
+			(uuid "1215fb66-e6fc-4206-8bdb-0795a29c8080")
+		)
+		(pin ""
+			(uuid "cfdf7b61-d342-4707-8d13-bc5dd9afcda6")
+		)
+		(pin ""
+			(uuid "1d72c076-05b4-4ca9-afd7-5290d12b769a")
+		)
+		(pin ""
+			(uuid "66d3d3e5-e70d-4d9e-8adb-a091cc57c02f")
+		)
+		(pin ""
+			(uuid "48f26ef7-55a9-48aa-978a-cffbf9907b90")
+		)
+		(pin ""
+			(uuid "15e053d1-52cc-4c64-8d2b-e3638558bd7e")
+		)
+		(pin ""
+			(uuid "cff8bd83-bce4-4ef4-8d5f-f472195907a1")
+		)
+		(pin ""
+			(uuid "97046256-7bcf-442e-a3cf-6d192abce469")
+		)
+		(pin ""
+			(uuid "6158dbfa-aceb-45fa-9e88-d577f47fe4ce")
+		)
+		(pin ""
+			(uuid "f48d107f-0015-4d7f-a035-aea262872eeb")
+		)
+		(pin ""
+			(uuid "fbff909c-2d6b-4388-91f0-616bd558efd6")
+		)
+		(pin ""
+			(uuid "17c767c8-6134-494f-8a49-774410aa4e74")
+		)
+		(pin ""
+			(uuid "662f5f0f-12a6-448d-9629-556752a611af")
+		)
+		(pin ""
+			(uuid "9ca2d19c-7676-4001-9275-8864b38c8de2")
+		)
+		(pin ""
+			(uuid "a719dbcd-b51f-4335-998d-d2ae4cb3d4c5")
+		)
+		(pin ""
+			(uuid "d2db4ff5-df2c-4688-9e4c-f71a9564232f")
+		)
+		(pin ""
+			(uuid "d861d7f9-ee88-4b24-b941-8466ddcbfef7")
+		)
+		(pin ""
+			(uuid "3fa62455-1814-4f98-a2b2-4289811d2f28")
+		)
+		(pin ""
+			(uuid "842e748f-88ad-47f2-ada3-f1bb43e46758")
+		)
+		(pin ""
+			(uuid "ac193a03-36f7-4d1a-a1d5-7fa34d9c3998")
+		)
+		(pin ""
+			(uuid "c878f7b4-c0ea-430b-9403-ead2c35dd443")
+		)
+		(pin ""
+			(uuid "442196b8-428a-4bc7-8d43-28226751ade4")
+		)
+		(pin ""
+			(uuid "d87f654f-a9ab-48fc-8398-0233e80bfbdd")
+		)
+		(pin ""
+			(uuid "18fe69d2-d162-4b24-a07d-9b94bfb2ad11")
+		)
+		(pin ""
+			(uuid "daa299a0-774c-4ca9-837e-f6fb4458237e")
+		)
+		(pin ""
+			(uuid "eb7ac110-a9a3-4353-bd61-359c7e204f83")
+		)
+		(pin ""
+			(uuid "c5229f97-c59a-475f-bdce-4260bf9d3baf")
+		)
+		(pin ""
+			(uuid "cb8d6873-b907-4233-8ff6-20582210a3ca")
+		)
+		(pin ""
+			(uuid "bef1c53f-e2a1-415a-a2e2-26c857820885")
+		)
+		(pin ""
+			(uuid "e3d76e03-6581-4b83-9b24-db00d0f0a5de")
+		)
+		(pin ""
+			(uuid "8d86f392-69fa-4675-a5b5-87c5c6d03a15")
+		)
+		(pin ""
+			(uuid "f5ace8a4-1afc-4aa7-a201-e17106ad7e8e")
+		)
+		(pin ""
+			(uuid "4e8d879c-8278-479e-9cec-98795a26f10d")
+		)
+		(pin ""
+			(uuid "c02e2bad-9888-4a35-a40a-d384247b038a")
+		)
+		(pin ""
+			(uuid "8cc8972c-3e74-4e82-9b87-ee67819914de")
+		)
+		(pin ""
+			(uuid "64b80496-4b8e-4254-bb92-0d88850050f8")
+		)
+		(pin ""
+			(uuid "a80de92e-05c5-4298-8043-35891ed06e82")
+		)
+		(pin ""
+			(uuid "b1cdada2-cbbf-41dd-a29d-c94772b3e00e")
+		)
+		(pin ""
+			(uuid "76f4c8d7-4597-4d22-97f5-42dfda2817dd")
+		)
+		(pin ""
+			(uuid "76a8c0d7-494b-4b00-a4f0-2a6b2016aca4")
+		)
+		(pin ""
+			(uuid "3f91a6da-1c39-4a84-a09f-a9c3ac5bcf55")
+		)
+		(pin ""
+			(uuid "654dee5a-a089-4af3-a67b-ac72c5339df5")
+		)
+		(pin ""
+			(uuid "2a7ec570-8474-4fb0-9efa-f7d9d158d133")
+		)
+		(pin ""
+			(uuid "cc32f179-3142-42ce-851a-195ed15028f3")
+		)
+		(pin ""
+			(uuid "5f0c94a2-5cdb-4cac-9c5f-9374f9b77333")
+		)
+		(pin ""
+			(uuid "382d0fd1-b015-4e21-b813-971dc0fffdf8")
+		)
+		(pin ""
+			(uuid "3785b962-c046-4df9-b2dd-4c20bc4e4a7b")
+		)
+		(pin ""
+			(uuid "8a277592-f1b7-44b0-9ee0-dc283934552f")
+		)
+		(pin ""
+			(uuid "700f8da5-2bba-4414-b914-7a474e1657f1")
+		)
+		(pin ""
+			(uuid "d1ae2f82-3182-434a-a8bb-b7880b9186ce")
+		)
+		(pin ""
+			(uuid "7c4d8286-93d4-434a-8464-0b23c9e2d70a")
+		)
+		(pin ""
+			(uuid "e576ef57-4056-4826-8d52-bf6052957111")
+		)
+		(pin ""
+			(uuid "dc3b552a-5b90-42f0-8e07-1ab2b725483b")
+		)
+		(pin ""
+			(uuid "abca2327-8aad-4d5e-a274-86e9e9b2a6f9")
+		)
+		(pin ""
+			(uuid "54a8e923-8995-4003-ae2a-36944f6d5041")
+		)
+		(pin ""
+			(uuid "8f4b5613-f70c-49e5-b3a7-dac17ccd6b9f")
+		)
+		(pin ""
+			(uuid "c4cd1a3b-383c-4f2a-9d6f-ac7a77469878")
+		)
+		(pin ""
+			(uuid "15d3e52c-face-44cd-9445-634f7aa53c9e")
+		)
+		(pin ""
+			(uuid "5c34dea7-8fd1-4a31-8c47-ffdbbc6055a5")
+		)
+		(pin ""
+			(uuid "9c3e9105-5669-4009-8588-e097d0e79577")
+		)
+		(pin ""
+			(uuid "e6c41c74-f5cc-4e83-b55e-fe8bbb7112a8")
+		)
+		(pin ""
+			(uuid "5caacc9e-8555-4a02-a413-55acdf34e1a6")
+		)
+		(pin ""
+			(uuid "3ec38f1e-4b79-43ee-a212-74641c7f2780")
+		)
+		(pin ""
+			(uuid "1f6a9d5e-d633-4ea7-bf62-b10ef2ecf9f3")
+		)
+		(pin ""
+			(uuid "f367ff96-d8e0-42bc-9e0f-42570547776a")
+		)
+		(pin ""
+			(uuid "9ec9cd6d-2634-4e16-ab7f-a251167abfcb")
+		)
+		(pin ""
+			(uuid "7a7f4383-e166-4efe-9a1e-bebd8e9b3151")
+		)
+		(pin ""
+			(uuid "39660149-6ce4-4d7d-91d4-9444899b2daa")
+		)
+		(pin ""
+			(uuid "0bcdafa5-662a-46a1-b97d-ce761572e1a4")
+		)
+		(pin ""
+			(uuid "01a66f07-e652-4ca6-a244-711411d19723")
+		)
+		(pin ""
+			(uuid "3b25ca1d-9fbe-40cd-a5c4-844c27e78e00")
+		)
+		(pin ""
+			(uuid "8743a9d4-066e-4e8c-b936-faf5fc2f3927")
+		)
+		(pin ""
+			(uuid "02bef6e9-f8cd-4897-ab71-2efe8b30d1fd")
+		)
+		(pin ""
+			(uuid "938e0a7e-5bd5-4c8a-bf56-9533ae1dbe94")
+		)
+		(pin ""
+			(uuid "e42f7a51-b085-414c-9c26-f1641ba1b3e9")
+		)
+		(pin ""
+			(uuid "c3bdc730-5c70-4191-8e71-a8ce23c7cda6")
+		)
+		(pin ""
+			(uuid "095742e9-67bc-4ba9-8d3d-e0b13d6d83de")
+		)
+		(pin ""
+			(uuid "894a311d-1856-4574-9fca-793ccf7c719a")
+		)
+		(pin ""
+			(uuid "1089c889-8ac4-47de-809a-2f0dd3895c9d")
+		)
+		(pin ""
+			(uuid "ee893243-aeba-4358-979b-d9cc0e35bb52")
+		)
+		(pin ""
+			(uuid "f71f1ce1-a367-4f9e-9be7-087aaeece0c0")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Temperature_Sensor")
+		(at 351.79 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5cd523f-792f-4b90-be6e-25557a6fc1a9")
+		(property "Reference" "U2"
+			(at 359.41 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 351.79 128.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 351.79 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 351.79 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 351.79 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
