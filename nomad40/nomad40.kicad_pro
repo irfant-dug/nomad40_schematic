@@ -416,13 +416,17 @@
         "uuid": "5ce10890-ec2e-4d94-ab94-dfd6050270b1"
       }
     ],
-    "used_designators": "U1-17",
+    "used_designators": "U1-65",
     "variants": []
   },
   "sheets": [
     [
       "5ce10890-ec2e-4d94-ab94-dfd6050270b1",
       "Root"
+    ],
+    [
+      "98b3af03-8682-4f7b-bfdb-6bee55508dad",
+      "Tank 1-[1-8]"
     ]
   ],
   "text_variables": {},

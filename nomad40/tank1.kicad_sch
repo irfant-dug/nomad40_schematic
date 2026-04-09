@@ -1,0 +1,9628 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "ca747391-4e80-4ab6-aca3-1a6d42d86256")
+	(paper "A3")
+	(lib_symbols
+		(symbol "Innotech:C40_+terminal"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 33.02 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 33.02 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 33.02 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 33.02 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C40_+terminal_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -1.27)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "+"
+					(at 0 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+							(color 0 0 0 1)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Innotech:C40_-terminal"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 33.02 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 33.02 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 33.02 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 33.02 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C40_-terminal_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -1.27)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "-"
+					(at 0 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+							(color 0 0 0 1)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Innotech:Chilled_Water_Valve"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Chilled_Water_Valve_0_1"
+				(polyline
+					(pts
+						(xy 39.37 -4.064) (xy 39.37 -4.064)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Chilled_Water_Valve_1_1"
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 8.382 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 0 0)
+					)
+				)
+				(rectangle
+					(start 0 2.032)
+					(end 0.508 -2.032)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 0 1)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 8.382 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 2.54) (xy 0.508 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.382 2.54) (xy 8.382 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.382 2.54) (xy 10.922 1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.382 -2.54) (xy 10.922 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.286) (xy 8.89 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.286) (xy 8.89 1.778) (xy 10.414 1.778) (xy 8.89 2.286) (xy 9.144 2.286) (xy 8.89 2.032)
+						(xy 9.144 1.778) (xy 9.144 2.286) (xy 9.398 1.778) (xy 9.652 2.032) (xy 9.906 1.778) (xy 9.398 2.032)
+						(xy 9.398 1.778) (xy 9.144 2.032) (xy 8.89 2.032)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 8.89 1.778)
+					(end 10.414 -1.778)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 0 1)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 -2.286) (xy 8.89 -1.778) (xy 10.414 -1.778) (xy 8.89 -2.286) (xy 9.144 -2.286) (xy 8.89 -2.032)
+						(xy 9.144 -1.778) (xy 9.144 -2.286) (xy 9.398 -1.778) (xy 9.652 -2.032) (xy 9.906 -1.778) (xy 9.398 -2.032)
+						(xy 9.398 -1.778) (xy 9.144 -2.032) (xy 8.89 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.922 1.778) (xy 10.922 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.922 -0.762) (xy 35.052 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 11.049 0.762) (xy 35.052 0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 35.052 6.35)
+					(end 43.688 -6.35)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 36.068 4.826)
+					(end 42.672 -2.794)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 37.338 -3.302) (xy 37.338 -4.826)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 37.338 -4.064) (xy 36.576 -4.064)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 39.37 -2.794) (xy 39.37 -4.064)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 39.37 -4.064) (xy 37.338 -3.302)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 39.37 -4.064) (xy 37.338 -4.826)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 41.402 -3.302) (xy 39.37 -4.064)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 41.402 -3.302) (xy 41.402 -4.826)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 41.402 -4.826) (xy 39.37 -4.064)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 42.164 -4.064) (xy 41.402 -4.064)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "RJ45"
+					(at 4.064 0 900)
+					(effects
+						(font
+							(size 1.3 1.3)
+							(thickness 0.26)
+							(bold yes)
+							(color 0 0 0 1)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Innotech:RJ45_Breakout"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at -1.524 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RJ45_Breakout_1_1"
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 8.382 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 0 0)
+					)
+				)
+				(rectangle
+					(start 0 2.032)
+					(end 0.508 -2.032)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 0 1)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 8.382 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 2.54) (xy 0.508 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.382 2.54) (xy 8.382 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.382 2.54) (xy 10.922 1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.382 -2.54) (xy 10.922 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.286) (xy 8.89 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.286) (xy 8.89 1.778) (xy 10.414 1.778) (xy 8.89 2.286) (xy 9.144 2.286) (xy 8.89 2.032)
+						(xy 9.144 1.778) (xy 9.144 2.286) (xy 9.398 1.778) (xy 9.652 2.032) (xy 9.906 1.778) (xy 9.398 2.032)
+						(xy 9.398 1.778) (xy 9.144 2.032) (xy 8.89 2.032)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 8.89 1.778)
+					(end 10.414 -1.778)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 0 1)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 -2.286) (xy 8.89 -1.778) (xy 10.414 -1.778) (xy 8.89 -2.286) (xy 9.144 -2.286) (xy 8.89 -2.032)
+						(xy 9.144 -1.778) (xy 9.144 -2.286) (xy 9.398 -1.778) (xy 9.652 -2.032) (xy 9.906 -1.778) (xy 9.398 -2.032)
+						(xy 9.398 -1.778) (xy 9.144 -2.032) (xy 8.89 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.922 1.778) (xy 10.922 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.922 -0.762) (xy 35.052 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 11.049 0.762) (xy 35.052 0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 35.052 15.24)
+					(end 42.672 -15.24)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 40.132 12.7)
+					(end 42.672 1.27)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 40.132 -1.27)
+					(end 42.672 -12.7)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "RJ45"
+					(at 4.064 0 900)
+					(effects
+						(font
+							(size 1.3 1.3)
+							(thickness 0.26)
+							(bold yes)
+							(color 0 0 0 1)
+						)
+					)
+				)
+				(text "RJ45 IN/2"
+					(at 41.656 6.858 900)
+					(effects
+						(font
+							(size 1.1 1.1)
+							(color 0 0 0 1)
+						)
+					)
+				)
+				(text "RJ45 IN/1"
+					(at 41.656 -7.112 900)
+					(effects
+						(font
+							(size 1.1 1.1)
+							(color 0 0 0 1)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Innotech:RJ45_Socket"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 35.56 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_0_1"
+				(rectangle
+					(start -4.826 22.86)
+					(end 4.826 -22.86)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_1_1"
+				(pin output line
+					(at -10.16 17.78 0)
+					(length 5.08)
+					(name "OR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 12.7 0)
+					(length 5.08)
+					(name "OR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 7.62 0)
+					(length 5.08)
+					(name "GR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "BL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "BL/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -7.62 0)
+					(length 5.08)
+					(name "GR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -12.7 0)
+					(length 5.08)
+					(name "BR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -17.78 0)
+					(length 5.08)
+					(name "BR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Innotech:Temperature_Sensor"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at -29.21 2.032 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Temperature_Sensor_1_1"
+				(polyline
+					(pts
+						(xy -0.254 2.54) (xy -0.254 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 2.54) (xy 8.128 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 0 0)
+					)
+				)
+				(rectangle
+					(start -0.254 2.032)
+					(end 0.254 -2.032)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 0 1)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -2.54) (xy 8.128 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 2.54) (xy 0.254 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.128 2.54) (xy 8.128 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.128 2.54) (xy 10.668 1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.128 -2.54) (xy 10.668 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.636 2.286) (xy 8.636 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.636 2.286) (xy 8.636 1.778) (xy 10.16 1.778) (xy 8.636 2.286) (xy 8.89 2.286) (xy 8.636 2.032)
+						(xy 8.89 1.778) (xy 8.89 2.286) (xy 9.144 1.778) (xy 9.398 2.032) (xy 9.652 1.778) (xy 9.144 2.032)
+						(xy 9.144 1.778) (xy 8.89 2.032) (xy 8.636 2.032)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 8.636 1.778)
+					(end 10.16 -1.778)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 0 1)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.636 -2.286) (xy 8.636 -1.778) (xy 10.16 -1.778) (xy 8.636 -2.286) (xy 8.89 -2.286) (xy 8.636 -2.032)
+						(xy 8.89 -1.778) (xy 8.89 -2.286) (xy 9.144 -1.778) (xy 9.398 -2.032) (xy 9.652 -1.778) (xy 9.144 -2.032)
+						(xy 9.144 -1.778) (xy 8.89 -2.032) (xy 8.636 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.541 0.762) (xy 35.052 0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.668 1.778) (xy 10.668 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.668 -0.762) (xy 35.052 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 35.052 6.35)
+					(end 43.688 -6.35)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 39.624 0.254)
+					(radius 2.8055)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "RJ45"
+					(at 3.81 0 900)
+					(effects
+						(font
+							(size 1.3 1.3)
+							(thickness 0.26)
+							(bold yes)
+							(color 0 0 0 1)
+						)
+					)
+				)
+				(text "T"
+					(at 38.354 0 0)
+					(effects
+						(font
+							(size 3 3)
+							(color 0 0 0 1)
+						)
+						(justify left)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RJ45_Socket_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 35.56 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_1_0_1"
+				(rectangle
+					(start -4.826 22.86)
+					(end 4.826 -22.86)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_1_1_1"
+				(pin output line
+					(at -10.16 17.78 0)
+					(length 5.08)
+					(name "OR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 12.7 0)
+					(length 5.08)
+					(name "OR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 7.62 0)
+					(length 5.08)
+					(name "GR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "BL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "BL/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -7.62 0)
+					(length 5.08)
+					(name "GR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -12.7 0)
+					(length 5.08)
+					(name "BR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -17.78 0)
+					(length 5.08)
+					(name "BR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RJ45_Socket_2"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 35.56 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_2_0_1"
+				(rectangle
+					(start -4.826 22.86)
+					(end 4.826 -22.86)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_2_1_1"
+				(pin output line
+					(at -10.16 17.78 0)
+					(length 5.08)
+					(name "OR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 12.7 0)
+					(length 5.08)
+					(name "OR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 7.62 0)
+					(length 5.08)
+					(name "GR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "BL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "BL/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -7.62 0)
+					(length 5.08)
+					(name "GR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -12.7 0)
+					(length 5.08)
+					(name "BR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -17.78 0)
+					(length 5.08)
+					(name "BR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RJ45_Socket_3"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 35.56 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_3_0_1"
+				(rectangle
+					(start -4.826 22.86)
+					(end 4.826 -22.86)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_3_1_1"
+				(pin output line
+					(at -10.16 17.78 0)
+					(length 5.08)
+					(name "OR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 12.7 0)
+					(length 5.08)
+					(name "OR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 7.62 0)
+					(length 5.08)
+					(name "GR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "BL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "BL/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -7.62 0)
+					(length 5.08)
+					(name "GR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -12.7 0)
+					(length 5.08)
+					(name "BR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -17.78 0)
+					(length 5.08)
+					(name "BR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RJ45_Socket_4"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 35.56 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_4_0_1"
+				(rectangle
+					(start -4.826 22.86)
+					(end 4.826 -22.86)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_4_1_1"
+				(pin output line
+					(at -10.16 17.78 0)
+					(length 5.08)
+					(name "OR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 12.7 0)
+					(length 5.08)
+					(name "OR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 7.62 0)
+					(length 5.08)
+					(name "GR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "BL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "BL/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -7.62 0)
+					(length 5.08)
+					(name "GR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -12.7 0)
+					(length 5.08)
+					(name "BR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -17.78 0)
+					(length 5.08)
+					(name "BR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RJ45_Socket_5"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 35.56 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_5_0_1"
+				(rectangle
+					(start -4.826 22.86)
+					(end 4.826 -22.86)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_5_1_1"
+				(pin output line
+					(at -10.16 17.78 0)
+					(length 5.08)
+					(name "OR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 12.7 0)
+					(length 5.08)
+					(name "OR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 7.62 0)
+					(length 5.08)
+					(name "GR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "BL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "BL/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -7.62 0)
+					(length 5.08)
+					(name "GR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -12.7 0)
+					(length 5.08)
+					(name "BR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -17.78 0)
+					(length 5.08)
+					(name "BR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RJ45_Socket_6"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 35.56 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_6_0_1"
+				(rectangle
+					(start -4.826 22.86)
+					(end 4.826 -22.86)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_6_1_1"
+				(pin output line
+					(at -10.16 17.78 0)
+					(length 5.08)
+					(name "OR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 12.7 0)
+					(length 5.08)
+					(name "OR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 7.62 0)
+					(length 5.08)
+					(name "GR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "BL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "BL/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -7.62 0)
+					(length 5.08)
+					(name "GR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -12.7 0)
+					(length 5.08)
+					(name "BR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -17.78 0)
+					(length 5.08)
+					(name "BR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RJ45_Socket_7"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 35.56 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 36.83 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_7_0_1"
+				(rectangle
+					(start -4.826 22.86)
+					(end 4.826 -22.86)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RJ45_Socket_7_1_1"
+				(pin output line
+					(at -10.16 17.78 0)
+					(length 5.08)
+					(name "OR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 12.7 0)
+					(length 5.08)
+					(name "OR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 7.62 0)
+					(length 5.08)
+					(name "GR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "BL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "BL/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -7.62 0)
+					(length 5.08)
+					(name "GR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -12.7 0)
+					(length 5.08)
+					(name "BR/W"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -17.78 0)
+					(length 5.08)
+					(name "BR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(rectangle
+		(start 251.46 20.32)
+		(end 261.62 241.3)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 128 77 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "6ee869aa-57d6-404b-9b57-45efd5139b55")
+	)
+	(rectangle
+		(start 49.53 20.32)
+		(end 59.69 241.3)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 128 77 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "c185dd0b-6924-4421-83f0-ccb7dd1c9a15")
+	)
+	(text "TANK X-Y\nCHWV ACTUATOR\n"
+		(exclude_from_sim no)
+		(at 375.158 56.388 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "00b8eaf9-4411-4190-a81d-d4b2b067e01f")
+	)
+	(text "RJ45 Socket\n"
+		(exclude_from_sim no)
+		(at 282.702 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "02fe7a43-cccd-4b6d-802f-83c7286fd6a8")
+	)
+	(text "RJ45 Splitter\n"
+		(exclude_from_sim no)
+		(at 124.46 30.226 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "046c8964-e56f-419e-8379-d122e7f3ccd7")
+	)
+	(text "TANK X-Y\nTEMPERATURE SENSOR\n"
+		(exclude_from_sim no)
+		(at 172.974 209.804 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "09ea5f82-b920-4445-9b32-0292e7bd776a")
+	)
+	(text "TANK X-Y\nTEMPERATURE SENSOR\n"
+		(exclude_from_sim no)
+		(at 374.904 209.804 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0cef678f-c7b3-41b2-b9cb-0105bc565e65")
+	)
+	(text "RJ45 Splitter\n"
+		(exclude_from_sim no)
+		(at 124.46 141.986 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1271d77c-f2a2-483c-8be7-994a615b0370")
+	)
+	(text "UIO/10\n"
+		(exclude_from_sim no)
+		(at 55.88 63.754 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "19d832b8-9abd-4eb5-8258-f553eb450f51")
+	)
+	(text "UIO/1\n"
+		(exclude_from_sim no)
+		(at 257.81 33.274 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1b0a6bc5-393f-481a-8fce-35eb8d1a2875")
+	)
+	(text "TANK X-Y\nCHWV ACTUATOR\n"
+		(exclude_from_sim no)
+		(at 173.228 56.388 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1f4a3bdc-f734-4424-ab2e-7776999e69ff")
+	)
+	(text "TANK X-Y\n"
+		(exclude_from_sim no)
+		(at 354.584 83.058 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+				(thickness 0.6096)
+				(bold yes)
+			)
+		)
+		(uuid "243c5752-e726-438e-a079-3c64d4177864")
+	)
+	(text "TANK X-Y\nTEMPERATURE SENSOR\n"
+		(exclude_from_sim no)
+		(at 172.974 42.164 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "25b1b521-4421-4cc6-b2bd-7b6060b9887f")
+	)
+	(text "UIO/5\n"
+		(exclude_from_sim no)
+		(at 257.302 145.034 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2864bbf5-b694-44f9-a8af-17168dfa282a")
+	)
+	(text "RJ45 Splitter\n"
+		(exclude_from_sim no)
+		(at 326.39 30.226 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2a844a54-c591-48c7-9968-6cc41a2c7686")
+	)
+	(text "TANK X-Y\nCHWV ACTUATOR\n"
+		(exclude_from_sim no)
+		(at 173.228 168.148 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3a1bc81a-6914-4115-b210-e212f21701f9")
+	)
+	(text "24V+\n"
+		(exclude_from_sim no)
+		(at 24.13 23.114 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3eaf5f23-aa73-463e-9ebd-af1901eb9890")
+	)
+	(text "24V-\n\n"
+		(exclude_from_sim no)
+		(at 31.75 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "41d2dc8c-18a6-4e25-8220-373addf3a415")
+	)
+	(text "UIO/14\n"
+		(exclude_from_sim no)
+		(at 55.626 175.514 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4b7fb881-a39e-4594-977f-7c597e0bd5bf")
+	)
+	(text "TANK X-Y\nTEMPERATURE SENSOR\n"
+		(exclude_from_sim no)
+		(at 172.974 153.924 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c8e1057-6a12-4ab6-8877-d5db1652bb90")
+	)
+	(text "UIO/4\n"
+		(exclude_from_sim no)
+		(at 257.302 119.634 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4e91762b-a124-41b1-ab2f-6e8a99830708")
+	)
+	(text "RJ45 Splitter\n"
+		(exclude_from_sim no)
+		(at 326.39 197.866 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5252b12f-47b8-4955-9d34-f07fccf9fa60")
+	)
+	(text "TANK X-Y\nTEMPERATURE SENSOR\n"
+		(exclude_from_sim no)
+		(at 374.904 42.164 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "57daccb5-515b-4619-bdce-9a7068c03be6")
+	)
+	(text "RJ45 Splitter\n"
+		(exclude_from_sim no)
+		(at 326.39 86.106 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "588a26f1-5463-4425-a815-9b61deae73af")
+	)
+	(text "TANK X-Y\n"
+		(exclude_from_sim no)
+		(at 152.654 27.178 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+				(thickness 0.6096)
+				(bold yes)
+			)
+		)
+		(uuid "5ac289b3-006e-44eb-abfe-daafe7a8ab13")
+	)
+	(text "UIO/12\n"
+		(exclude_from_sim no)
+		(at 55.372 119.634 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5c0c8f72-ace7-4e07-82ba-5184b7405c02")
+	)
+	(text "UIO/16\n"
+		(exclude_from_sim no)
+		(at 55.626 231.394 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5fa91620-8b0f-4a2e-8f18-8c77efefa734")
+	)
+	(text "RJ45 Socket\n"
+		(exclude_from_sim no)
+		(at 282.702 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6348e215-7069-4e03-a542-10d7be4b0a32")
+	)
+	(text "TANK X-Y\nCHWV ACTUATOR\n"
+		(exclude_from_sim no)
+		(at 375.158 168.148 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "690fd633-d275-4fa4-a4f6-9e451cffae99")
+	)
+	(text "UIO/8\n"
+		(exclude_from_sim no)
+		(at 257.556 231.394 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "697c3958-02af-4f8c-bc6a-fc9e91dbffcd")
+	)
+	(text "RJ45 Splitter\n"
+		(exclude_from_sim no)
+		(at 124.46 197.866 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6e64a94a-3834-4c00-90e0-6774f3f292fa")
+	)
+	(text "UIO/2\n"
+		(exclude_from_sim no)
+		(at 257.81 63.754 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6fc91905-3439-46ae-b01c-9b272c5c8d3e")
+	)
+	(text "UIO/11\n"
+		(exclude_from_sim no)
+		(at 55.372 89.154 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "71df75a6-a75a-4480-8db1-28b121c7747e")
+	)
+	(text "TANK X-Y\nCHWV ACTUATOR\n"
+		(exclude_from_sim no)
+		(at 173.228 112.268 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "721c8499-05b4-4f80-8624-1444e8fa12ac")
+	)
+	(text "RJ45 Socket\n"
+		(exclude_from_sim no)
+		(at 80.772 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7fa65a46-0f3a-478a-9712-db4915249b4c")
+	)
+	(text "RJ45 Splitter\n"
+		(exclude_from_sim no)
+		(at 326.39 141.986 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "80ffe940-f2bc-4967-b731-74b5aaf6f49e")
+	)
+	(text "TANK X-Y\n"
+		(exclude_from_sim no)
+		(at 152.654 194.818 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+				(thickness 0.6096)
+				(bold yes)
+			)
+		)
+		(uuid "89e1c2cd-f0e1-4178-a006-afd2845e10e4")
+	)
+	(text "RJ45 Socket\n"
+		(exclude_from_sim no)
+		(at 282.702 191.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "901475b3-e563-482a-b70d-92a1dcc56d83")
+	)
+	(text "TANK X-Y\n"
+		(exclude_from_sim no)
+		(at 354.584 138.938 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+				(thickness 0.6096)
+				(bold yes)
+			)
+		)
+		(uuid "924540ce-14bc-4009-91fc-2856e6a6a733")
+	)
+	(text "TANK X-Y\n"
+		(exclude_from_sim no)
+		(at 354.584 27.178 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+				(thickness 0.6096)
+				(bold yes)
+			)
+		)
+		(uuid "9e19e70f-158f-491e-ac55-fff17bdd5802")
+	)
+	(text "24V-\n\n"
+		(exclude_from_sim no)
+		(at 233.68 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a2bf3ffc-85b5-4876-85d3-0aa20ea10141")
+	)
+	(text "TANK X-Y\nTEMPERATURE SENSOR\n"
+		(exclude_from_sim no)
+		(at 172.974 98.044 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab271e40-2aa5-4f61-80c5-f0f0c08e1b50")
+	)
+	(text "TANK X-Y\nCHWV ACTUATOR\n"
+		(exclude_from_sim no)
+		(at 375.158 224.028 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae1a417d-c4c4-4fb2-a66c-61beace55fcf")
+	)
+	(text "UIO/6\n"
+		(exclude_from_sim no)
+		(at 257.556 175.514 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "afdcd7df-0d0e-4e01-8874-4f1095998613")
+	)
+	(text "UIO/13\n"
+		(exclude_from_sim no)
+		(at 55.372 145.034 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b0330958-8cc8-474d-92b0-d4b9336fbbab")
+	)
+	(text "RJ45 Splitter\n"
+		(exclude_from_sim no)
+		(at 124.46 86.106 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b112c58b-039b-4f7d-a0d7-6cf04fc9e070")
+	)
+	(text "TANK X-Y\nCHWV ACTUATOR\n"
+		(exclude_from_sim no)
+		(at 375.158 112.268 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4456e1a-0b57-49f2-a402-82620ea61784")
+	)
+	(text "UIO/15\n"
+		(exclude_from_sim no)
+		(at 55.372 200.914 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bbefd6e9-2a32-4c40-a277-f4df6328ae48")
+	)
+	(text "24V+\n"
+		(exclude_from_sim no)
+		(at 226.06 23.114 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bcd45df4-c506-48fa-a652-da5e0ee1af15")
+	)
+	(text "UIO/7\n"
+		(exclude_from_sim no)
+		(at 257.302 200.914 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c63c0d8a-7431-4dc5-92d8-7d43a59848f2")
+	)
+	(text "TANK X-Y\nTEMPERATURE SENSOR\n"
+		(exclude_from_sim no)
+		(at 374.904 153.924 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ccf39421-729a-4ecb-b33c-60b5c08d3233")
+	)
+	(text "TANK X-Y\nCHWV ACTUATOR\n"
+		(exclude_from_sim no)
+		(at 173.228 224.028 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cd500846-8867-4f66-b24f-673b9296463c")
+	)
+	(text "RJ45 Socket\n"
+		(exclude_from_sim no)
+		(at 80.772 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cdd01b9d-af00-43e7-afd0-160812142a21")
+	)
+	(text "UIO/3\n"
+		(exclude_from_sim no)
+		(at 257.302 89.154 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d0f66c4a-197b-46ff-b964-82cf94dbacb0")
+	)
+	(text "UIO/9\n"
+		(exclude_from_sim no)
+		(at 55.88 33.274 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d8064c88-98a5-435f-acca-2a80feee8209")
+	)
+	(text "RJ45 Socket\n"
+		(exclude_from_sim no)
+		(at 80.772 191.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "df225368-c2f1-4d54-b6fb-95887456423c")
+	)
+	(text "RJ45 Socket\n"
+		(exclude_from_sim no)
+		(at 80.772 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "df7cd29d-f9a9-4d96-b1cc-8de33bff1823")
+	)
+	(text "TANK X-Y\n"
+		(exclude_from_sim no)
+		(at 152.654 83.058 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+				(thickness 0.6096)
+				(bold yes)
+			)
+		)
+		(uuid "dfd9f423-d332-4a75-b5f7-4bf606c3a9c6")
+	)
+	(text "OMNI C40\n"
+		(exclude_from_sim no)
+		(at 54.356 19.304 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e5a168f1-91db-4197-9673-c1d5c5806f29")
+	)
+	(text "TANK X-Y\n"
+		(exclude_from_sim no)
+		(at 152.654 138.938 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+				(thickness 0.6096)
+				(bold yes)
+			)
+		)
+		(uuid "e828bedc-a2d7-48cb-9519-48d1caff66d6")
+	)
+	(text "TANK X-Y\nTEMPERATURE SENSOR\n"
+		(exclude_from_sim no)
+		(at 374.904 98.044 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e881643a-cdd3-4b90-b899-cfa88cf9f1eb")
+	)
+	(text "OMNI C40\n"
+		(exclude_from_sim no)
+		(at 256.286 19.304 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "eb7d701e-06af-47aa-b094-ef79d7d76cbc")
+	)
+	(text "RJ45 Socket\n"
+		(exclude_from_sim no)
+		(at 282.702 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f3dfd142-bd1f-47fa-b748-a36b5c7aa570")
+	)
+	(text "TANK X-Y\n"
+		(exclude_from_sim no)
+		(at 354.584 194.818 0)
+		(effects
+			(font
+				(size 3.048 3.048)
+				(thickness 0.6096)
+				(bold yes)
+			)
+		)
+		(uuid "f4ca2369-a095-4f79-be3d-237830c43b01")
+	)
+	(junction
+		(at 31.75 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01c41971-afc4-488f-b44f-f9f33c2d1c40")
+	)
+	(junction
+		(at 226.06 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04c925c4-5412-42f4-a3d7-a34b42dba12e")
+	)
+	(junction
+		(at 24.13 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "085a84ed-f3d0-45ec-8a75-6f13bb88e5e7")
+	)
+	(junction
+		(at 24.13 213.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a8d509c-165a-4019-98e1-fb29930f6aa5")
+	)
+	(junction
+		(at 226.06 213.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e205496-8289-48e4-af6d-12a8e49b4399")
+	)
+	(junction
+		(at 31.75 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a3d9305-d0f6-41d8-88c3-45684f905f08")
+	)
+	(junction
+		(at 233.68 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e7b1551-efa2-4cba-8153-ce82866c320d")
+	)
+	(junction
+		(at 226.06 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65c5ed5e-f4bf-42a4-a547-dc49d50e806e")
+	)
+	(junction
+		(at 24.13 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74d0219b-b155-45a6-a004-c9d2a28f5db5")
+	)
+	(junction
+		(at 31.75 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "94057014-e26d-42f4-8d85-4dd668bc39fb")
+	)
+	(junction
+		(at 31.75 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a2d28d62-bc83-4274-a2e4-1e0966a1bd98")
+	)
+	(junction
+		(at 226.06 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4d95403-d007-444a-aa82-d1c1da2ad3ac")
+	)
+	(junction
+		(at 233.68 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a577fa66-928e-4953-8b4f-513d64252712")
+	)
+	(junction
+		(at 233.68 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c21a1133-ab12-4b8a-8c42-fc344f75821a")
+	)
+	(junction
+		(at 233.68 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d52210d0-3812-4ae7-b1b4-8fa315dab8a6")
+	)
+	(junction
+		(at 24.13 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f69a3a3f-1921-4370-8140-14a24990eef0")
+	)
+	(wire
+		(pts
+			(xy 31.75 162.56) (xy 69.85 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0694fb6a-c382-46fe-be71-e1e1867d5812")
+	)
+	(wire
+		(pts
+			(xy 24.13 157.48) (xy 24.13 213.36)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "08a58857-3d1b-47bb-8e68-85391c33b533")
+	)
+	(wire
+		(pts
+			(xy 60.96 203.2) (xy 69.85 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09d7cf40-fea6-4b90-b5f1-0b69da9eb086")
+	)
+	(wire
+		(pts
+			(xy 226.06 45.72) (xy 226.06 101.6)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "0b24d5bc-ee7f-4994-9d2e-be1390dc399d")
+	)
+	(wire
+		(pts
+			(xy 60.96 35.56) (xy 69.85 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bf81917-6789-49ff-9521-55a7d0690142")
+	)
+	(wire
+		(pts
+			(xy 31.75 218.44) (xy 69.85 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ef5cfe8-beea-4f0e-a57a-cb4761b5f7bc")
+	)
+	(wire
+		(pts
+			(xy 60.96 233.68) (xy 69.85 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "107f3d00-99c9-4783-816b-98b4e81b13ab")
+	)
+	(wire
+		(pts
+			(xy 24.13 157.48) (xy 69.85 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10bd5e40-b811-4d57-8294-3b21859a189b")
+	)
+	(wire
+		(pts
+			(xy 262.89 203.2) (xy 271.78 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1342339b-b7ba-41d6-a331-d924e8861693")
+	)
+	(wire
+		(pts
+			(xy 262.89 30.48) (xy 271.78 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13ddd10d-f89b-4f36-9d1c-bfff24826396")
+	)
+	(wire
+		(pts
+			(xy 262.89 66.04) (xy 271.78 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "197967ce-b86f-4003-9f74-395b754baabd")
+	)
+	(wire
+		(pts
+			(xy 262.89 121.92) (xy 271.78 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c2adcfd-1d20-4946-92ae-38919c486718")
+	)
+	(wire
+		(pts
+			(xy 233.68 24.13) (xy 233.68 50.8)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "1c9c2126-ae08-4449-8555-dfb2ba9a7115")
+	)
+	(wire
+		(pts
+			(xy 60.96 86.36) (xy 69.85 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d991ba5-fd51-42e8-b77e-39da87f383ea")
+	)
+	(wire
+		(pts
+			(xy 226.06 213.36) (xy 271.78 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "203db936-33fb-43f1-a089-4d6096b4a05d")
+	)
+	(wire
+		(pts
+			(xy 60.96 121.92) (xy 69.85 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26fdf2cd-ce00-4e4d-b397-486688cd82ce")
+	)
+	(wire
+		(pts
+			(xy 31.75 50.8) (xy 69.85 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "336baf3b-9654-4b1d-ab80-5aa347ec2a5f")
+	)
+	(wire
+		(pts
+			(xy 262.89 228.6) (xy 271.78 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "347f740c-3f7c-4e68-947d-3d89a474d341")
+	)
+	(wire
+		(pts
+			(xy 226.06 101.6) (xy 271.78 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3801ef26-df6d-431c-8443-5035c6950fbf")
+	)
+	(wire
+		(pts
+			(xy 233.68 50.8) (xy 233.68 106.68)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "398f3631-3bb3-400e-9767-899e25703947")
+	)
+	(wire
+		(pts
+			(xy 262.89 198.12) (xy 271.78 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46907e6d-9ae0-4e48-ad33-a8f4b6f69292")
+	)
+	(wire
+		(pts
+			(xy 262.89 147.32) (xy 271.78 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b1588c7-5e21-45ff-bb55-eaeb0620da0a")
+	)
+	(wire
+		(pts
+			(xy 262.89 91.44) (xy 271.78 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dc9ccb5-e9dd-45fa-9f0c-ad66ae9995aa")
+	)
+	(wire
+		(pts
+			(xy 60.96 66.04) (xy 69.85 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4facefd0-14b5-40d1-b8c9-4f489c6b2aca")
+	)
+	(wire
+		(pts
+			(xy 226.06 157.48) (xy 271.78 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fd3bf8d-0de9-4fd5-9e8a-f2ba5a27c260")
+	)
+	(wire
+		(pts
+			(xy 233.68 50.8) (xy 271.78 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5392d70d-007b-429e-91ef-9821fa3088d7")
+	)
+	(wire
+		(pts
+			(xy 262.89 86.36) (xy 271.78 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "610b1fde-d2f8-4996-aeaf-b59ac55705ce")
+	)
+	(wire
+		(pts
+			(xy 262.89 177.8) (xy 271.78 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6312d02c-31de-42aa-b199-c886489393f1")
+	)
+	(wire
+		(pts
+			(xy 262.89 233.68) (xy 271.78 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64ec15f5-3925-4c1e-894b-838431fbd0e5")
+	)
+	(wire
+		(pts
+			(xy 31.75 24.13) (xy 31.75 50.8)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "65281c33-89ca-466d-a80d-5708128c6837")
+	)
+	(wire
+		(pts
+			(xy 60.96 30.48) (xy 69.85 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65643a2c-2777-406c-a7cf-a05ba05fdebc")
+	)
+	(wire
+		(pts
+			(xy 262.89 60.96) (xy 271.78 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "692192ee-ff44-4136-94f7-d7864f3db90a")
+	)
+	(wire
+		(pts
+			(xy 60.96 60.96) (xy 69.85 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7024d4ec-282e-4b23-b8c7-a9deb2b93944")
+	)
+	(wire
+		(pts
+			(xy 262.89 142.24) (xy 271.78 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83acd20c-d0d1-4008-a71e-537c7d2109be")
+	)
+	(wire
+		(pts
+			(xy 24.13 213.36) (xy 24.13 280.67)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "879f0fc6-ba2b-418d-9de4-9df32d99fff7")
+	)
+	(wire
+		(pts
+			(xy 24.13 45.72) (xy 24.13 101.6)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "8c717e94-1a2e-4d78-a1db-d488d172f52e")
+	)
+	(wire
+		(pts
+			(xy 226.06 157.48) (xy 226.06 213.36)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "8ddc4459-e6bf-4a2f-bcfa-5cf544ab2c64")
+	)
+	(wire
+		(pts
+			(xy 24.13 24.13) (xy 24.13 45.72)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "a02ab20a-0fdc-4b7a-a74a-d80fcaea07d5")
+	)
+	(wire
+		(pts
+			(xy 233.68 162.56) (xy 271.78 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1ea7ed7-531a-4eae-97d2-60e78177d0af")
+	)
+	(wire
+		(pts
+			(xy 60.96 172.72) (xy 69.85 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2f59422-7a2e-4278-8b8c-a14a60ce79a5")
+	)
+	(wire
+		(pts
+			(xy 233.68 162.56) (xy 233.68 218.44)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "a4488654-c976-4692-acb0-fc54cfc0cabe")
+	)
+	(wire
+		(pts
+			(xy 60.96 91.44) (xy 69.85 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9947f7f-eff6-499a-ae5e-fe082e9af85a")
+	)
+	(wire
+		(pts
+			(xy 233.68 218.44) (xy 271.78 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abd973ac-40d0-40f0-9a7d-35003c6ce0a2")
+	)
+	(wire
+		(pts
+			(xy 60.96 147.32) (xy 69.85 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae5c8eaf-a41d-4a09-825b-1f896eefceb4")
+	)
+	(wire
+		(pts
+			(xy 60.96 142.24) (xy 69.85 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af2e3b26-24f9-4d73-9c6a-ee5802435f05")
+	)
+	(wire
+		(pts
+			(xy 226.06 24.13) (xy 226.06 45.72)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "b38caaee-6fd9-46c4-9df7-3d85e2cb935a")
+	)
+	(wire
+		(pts
+			(xy 31.75 106.68) (xy 69.85 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6b5c3f7-9edb-4bd4-ab9d-5119b2cac6db")
+	)
+	(wire
+		(pts
+			(xy 262.89 35.56) (xy 271.78 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b964da3b-4203-4060-ab71-d6488b59b831")
+	)
+	(wire
+		(pts
+			(xy 31.75 162.56) (xy 31.75 218.44)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "bfae64a3-c0c7-4be8-b31e-1a19488f41b8")
+	)
+	(wire
+		(pts
+			(xy 262.89 116.84) (xy 271.78 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6609b76-c3e3-44bb-97c7-f98aceebdaa0")
+	)
+	(wire
+		(pts
+			(xy 24.13 101.6) (xy 69.85 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cacd633b-6480-4f08-b6d8-b6d87d2c5d13")
+	)
+	(wire
+		(pts
+			(xy 60.96 116.84) (xy 69.85 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2265636-38a6-47d2-aac2-81750eef4ab9")
+	)
+	(wire
+		(pts
+			(xy 31.75 50.8) (xy 31.75 106.68)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "d226aebc-f963-4014-90e3-b6465f454d9e")
+	)
+	(wire
+		(pts
+			(xy 31.75 106.68) (xy 31.75 162.56)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "d80a9b4a-0b86-4f08-a67c-bf116c40d398")
+	)
+	(wire
+		(pts
+			(xy 233.68 218.44) (xy 233.68 280.67)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "d8814d1f-6699-43be-8b67-e12ab44dc910")
+	)
+	(wire
+		(pts
+			(xy 60.96 177.8) (xy 69.85 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da14988f-9614-46b9-8566-157667f4e8ba")
+	)
+	(wire
+		(pts
+			(xy 24.13 101.6) (xy 24.13 157.48)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "e6064599-e260-4284-8fdb-42cb795767b2")
+	)
+	(wire
+		(pts
+			(xy 60.96 228.6) (xy 69.85 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea878e07-2cf4-46d9-931f-4d4e279109ce")
+	)
+	(wire
+		(pts
+			(xy 24.13 213.36) (xy 69.85 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef952f9b-17ab-4d5d-ace9-99b56ae477d5")
+	)
+	(wire
+		(pts
+			(xy 60.96 198.12) (xy 69.85 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0c7cb7e-d1f7-4369-889a-b7378d45294a")
+	)
+	(wire
+		(pts
+			(xy 226.06 101.6) (xy 226.06 157.48)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "f2a6b00a-9500-4db8-ac82-bee09ffdb2e9")
+	)
+	(wire
+		(pts
+			(xy 233.68 106.68) (xy 233.68 162.56)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "f2b1733c-4321-480b-999a-c85b1d74f929")
+	)
+	(wire
+		(pts
+			(xy 31.75 218.44) (xy 31.75 280.67)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "f4b0c962-4df9-4757-b135-d78bae37d059")
+	)
+	(wire
+		(pts
+			(xy 226.06 213.36) (xy 226.06 280.67)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "f7021f63-942c-4978-b960-b2327ba61597")
+	)
+	(wire
+		(pts
+			(xy 233.68 106.68) (xy 271.78 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9c87e95-dffb-476b-a878-6eaeb0911ec4")
+	)
+	(wire
+		(pts
+			(xy 262.89 172.72) (xy 271.78 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa2f965b-8f39-4bb5-878b-440381e03f3d")
+	)
+	(wire
+		(pts
+			(xy 24.13 45.72) (xy 69.85 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc64d857-2e66-4a82-8e6e-a0ec822c03b1")
+	)
+	(wire
+		(pts
+			(xy 226.06 45.72) (xy 271.78 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffbe1124-cc44-48ce-a4a1-a9f328b5fed2")
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 257.81 233.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "022440b2-38a5-47f9-bd0a-d9dbe1c7e7cf")
+		(property "Reference" "U33"
+			(at 257.81 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 243.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "1eb75d34-af13-4b1a-8e00-43a22ade10bb")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 55.88 203.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "029848d3-268a-4a8e-a382-c9c444083c04")
+		(property "Reference" "U47"
+			(at 55.88 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 213.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "f7fb173a-319f-448a-9572-a486818252f1")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Chilled_Water_Valve")
+		(at 128.27 153.67 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "038141f6-da76-4df6-8f85-c9446f60d488")
+		(property "Reference" "U62"
+			(at 128.27 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 128.27 146.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 55.88 30.48 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03e2a638-cfa6-4b54-b430-b6f6db61fa2d")
+		(property "Reference" "U34"
+			(at 55.88 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 40.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "40168499-4cc0-448f-9dc7-880d144ed187")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Temperature_Sensor")
+		(at 128.27 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "08a18e0e-8b8d-4682-947d-2ee5705a89bc")
+		(property "Reference" "U59"
+			(at 99.06 53.848 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 128.27 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 257.81 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0c464c68-71b6-4dec-9281-48831e29b109")
+		(property "Reference" "U20"
+			(at 257.81 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 71.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "9312025e-fe9b-4949-ad87-ccbe35f6e2be")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 55.88 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "132fb8ba-27b0-41c0-a876-7d69d0061f6c")
+		(property "Reference" "U39"
+			(at 55.88 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 101.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "f08b05e6-f6f3-4060-9418-6b19b77a24c2")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 257.81 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "19928de3-46b8-4d84-b90c-f0133b9038e9")
+		(property "Reference" "U23"
+			(at 257.81 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 101.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "56febc4f-ed94-4762-92e0-edce6cbf25a5")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 257.81 147.32 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e8714d8-71c3-405d-ab30-ccc577f0a780")
+		(property "Reference" "U27"
+			(at 257.81 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "7c33ff11-84bc-4f1a-b14c-8706408f82f8")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "RJ45_Socket_6")
+		(lib_id "Innotech:RJ45_Socket")
+		(at 80.01 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "20a5be5b-0263-41c4-8c6a-ba9286afafe7")
+		(property "Reference" "U50"
+			(at 80.01 12.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 80.01 11.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 11.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 11.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 11.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "50bed833-16e7-4140-bc72-0eeb5425fa9d")
+		)
+		(pin ""
+			(uuid "c4807335-46ff-4971-8004-b941814559c6")
+		)
+		(pin ""
+			(uuid "cbcd44ae-bd65-4f74-acd4-5acecb61e3e5")
+		)
+		(pin ""
+			(uuid "7aaf56d2-d319-47c6-99e3-f88e90df028e")
+		)
+		(pin ""
+			(uuid "bc027642-8d32-4872-85ba-887be2605d6d")
+		)
+		(pin ""
+			(uuid "a089a402-2d6b-4bd5-86b1-de32f1aa75b0")
+		)
+		(pin ""
+			(uuid "9b34d26a-9866-45e5-89b7-1fcd338f664a")
+		)
+		(pin ""
+			(uuid "cf49867b-cf53-4fd4-bf6d-72abb6a30f66")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Temperature_Sensor")
+		(at 330.2 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "25d112a1-fe91-48c2-baee-c7d55c296007")
+		(property "Reference" "U8"
+			(at 300.99 109.728 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 330.2 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Temperature_Sensor")
+		(at 330.2 223.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2a9e4124-ce08-4c6b-b64a-0882b0b6a3bc")
+		(property "Reference" "U16"
+			(at 300.99 221.488 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 330.2 223.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:RJ45_Breakout")
+		(at 85.09 104.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "331944df-ff92-4b13-8def-daa94b812aaf")
+		(property "Reference" "U55"
+			(at 83.566 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 85.09 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 85.09 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:RJ45_Breakout")
+		(at 287.02 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3509cadd-9d0d-49e5-a0e3-4bb2f22293c8")
+		(property "Reference" "U3"
+			(at 285.496 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 287.02 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 287.02 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 287.02 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 287.02 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 55.88 198.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "37564e51-ba38-4de4-bdd7-d1f1c21efa68")
+		(property "Reference" "U46"
+			(at 55.88 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 208.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "b1f1e223-ba5e-40c1-861f-7fde3408cb09")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Chilled_Water_Valve")
+		(at 128.27 41.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "39561de5-a4f1-4ba1-b23a-d5a2cacf8d2f")
+		(property "Reference" "U58"
+			(at 128.27 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 128.27 34.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "RJ45_Socket_7")
+		(lib_id "Innotech:RJ45_Socket")
+		(at 80.01 104.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "452fc887-58a4-49cf-8af4-23ce2ae7e77f")
+		(property "Reference" "U51"
+			(at 80.01 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 80.01 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "3988a6f8-ec36-47cf-8075-cbce70e9a92d")
+		)
+		(pin ""
+			(uuid "333959cb-7e82-4b57-9b3c-343f66668af5")
+		)
+		(pin ""
+			(uuid "708a5ed5-b053-49b1-8c9b-c08626ef2b43")
+		)
+		(pin ""
+			(uuid "c8e3ccb5-ba25-4681-8649-d32255753321")
+		)
+		(pin ""
+			(uuid "00601396-1a62-465e-bf30-9f128963d46a")
+		)
+		(pin ""
+			(uuid "b8e0678d-cc9e-470f-b0a2-645a2dea5139")
+		)
+		(pin ""
+			(uuid "e3c7751b-f918-4aa2-b927-9c5525ab72ac")
+		)
+		(pin ""
+			(uuid "52e11735-14a2-4313-aad0-b81953236d63")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 55.88 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4865897a-43be-460d-ac3f-c42f9499e4d3")
+		(property "Reference" "U48"
+			(at 55.88 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 238.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "4a31a5a3-529d-458a-96f9-b32ee2116737")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 55.88 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51d9131e-ec30-4bb5-89fd-08553f961585")
+		(property "Reference" "U41"
+			(at 55.88 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "7145a9cd-b760-41b4-94e8-fbf8edff77ab")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 55.88 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5362698e-0182-4ee6-98dd-bad2535b3cd6")
+		(property "Reference" "U36"
+			(at 55.88 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 71.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "6bd7448c-9f6e-4869-8c5f-fefaf6b84f5d")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 257.81 142.24 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5366985f-ba06-4527-bc04-9360979ee5d0")
+		(property "Reference" "U26"
+			(at 257.81 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "f9fd98b2-7b94-47af-b80c-d9e7d7079a94")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 257.81 30.48 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "552c9c9b-f136-48d1-95c1-f08313e89e2d")
+		(property "Reference" "U18"
+			(at 257.81 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 40.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "ede1da3c-b98f-4dc6-84c6-0102444edc90")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 257.81 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5fd28721-06f6-43ea-b124-c7ed472fc01c")
+		(property "Reference" "U32"
+			(at 257.81 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 238.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "c2ac183b-ee9f-4410-9803-b689e0855af4")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 257.81 172.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "61635758-8ff3-4c6f-9cf2-c656315f861e")
+		(property "Reference" "U28"
+			(at 257.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 182.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "606da8cc-042f-4dea-9a1d-7ce165202664")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Chilled_Water_Valve")
+		(at 128.27 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "61ce00b6-e6d0-4726-8de0-f5d4aa4f38c4")
+		(property "Reference" "U60"
+			(at 128.27 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 128.27 90.17 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 55.88 35.56 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70229cc1-668d-4197-9455-6c9192a6f567")
+		(property "Reference" "U35"
+			(at 55.88 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "04ee6629-ee44-49ac-bdaa-a620fe2f6957")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 55.88 233.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "739e68f8-5b97-4b4f-89c2-d2f253c6fd8e")
+		(property "Reference" "U49"
+			(at 55.88 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 243.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "2cecbef9-cae6-4585-928d-a02f51ffa0f9")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 55.88 142.24 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "786b4016-00ce-43e4-b09c-1c5c2559e2e3")
+		(property "Reference" "U42"
+			(at 55.88 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "d3328f28-16c0-4450-b2c1-a2084cc7079f")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Temperature_Sensor")
+		(at 128.27 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a92b710-ab67-4184-956f-de1bd90d1bc7")
+		(property "Reference" "U61"
+			(at 99.06 109.728 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 128.27 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 257.81 86.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "80f6ca1a-f194-4d12-aa05-737c0f6495b9")
+		(property "Reference" "U22"
+			(at 257.81 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "c9e01e9b-0bf8-4a4e-bf7e-c3f07674fd8c")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:RJ45_Breakout")
+		(at 287.02 215.9 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8b3ea424-4537-4a2b-bda3-14c76fd3d07d")
+		(property "Reference" "U12"
+			(at 285.496 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 287.02 215.9 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 287.02 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 287.02 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 287.02 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 257.81 116.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8df45c4d-2933-46b7-80b1-69313c9f722f")
+		(property "Reference" "U24"
+			(at 257.81 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 127 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "edf192db-414c-4da5-9ab6-fd4fe3e88c27")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Chilled_Water_Valve")
+		(at 330.2 153.67 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "94f568fe-07c3-4f39-8143-975a3788660f")
+		(property "Reference" "U13"
+			(at 330.2 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 330.2 146.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "RJ45_Socket_1")
+		(lib_id "Innotech:RJ45_Socket")
+		(at 281.94 104.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "954ecca9-8e12-454a-b24e-e5a3c11853c3")
+		(property "Reference" "U5"
+			(at 281.94 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 281.94 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 281.94 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 281.94 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 281.94 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "796cfef8-dd76-4a05-80d8-ac47b883a752")
+		)
+		(pin ""
+			(uuid "e8a7cb2a-8656-466e-8476-bc918ef5faac")
+		)
+		(pin ""
+			(uuid "ac713345-95a2-4f9d-98f7-578ee6d8b63c")
+		)
+		(pin ""
+			(uuid "7baea5b2-6734-479b-9154-e251b5d0e5e2")
+		)
+		(pin ""
+			(uuid "61d3b9e3-70e1-4677-b90f-7715be73bc3e")
+		)
+		(pin ""
+			(uuid "6984c190-ab8c-4206-8aa0-623a316686e0")
+		)
+		(pin ""
+			(uuid "d6f5cac8-3fba-4c8c-bc6f-ed3f846e5857")
+		)
+		(pin ""
+			(uuid "328e413c-6abe-4f85-8325-3a321a3fdea2")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:RJ45_Breakout")
+		(at 85.09 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "98672682-fa55-4108-bb99-65773f314cbc")
+		(property "Reference" "U56"
+			(at 83.566 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 85.09 160.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 85.09 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "RJ45_Socket_5")
+		(lib_id "Innotech:RJ45_Socket")
+		(at 80.01 215.9 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a2d1f73-b508-42ae-adb1-b700b3c2ca6d")
+		(property "Reference" "U53"
+			(at 80.01 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 80.01 179.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "66287d3d-356a-4b7b-93e9-db3aacbf59e5")
+		)
+		(pin ""
+			(uuid "d2f742ed-1b61-4a76-b6a2-b5358e2397fe")
+		)
+		(pin ""
+			(uuid "6bbb7a74-21b3-4da1-ba6e-0eaee5516b9d")
+		)
+		(pin ""
+			(uuid "532323ed-a3be-4f62-b787-a74b02f94700")
+		)
+		(pin ""
+			(uuid "e943b041-1f30-4ee4-91dc-03578181e410")
+		)
+		(pin ""
+			(uuid "56241767-f8bf-4045-8505-d30d581031ce")
+		)
+		(pin ""
+			(uuid "f3d807fe-bbbc-4ec9-94e2-948b7d62e291")
+		)
+		(pin ""
+			(uuid "54b7cf73-37ad-40b0-a78d-beb3ad787766")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:RJ45_Breakout")
+		(at 287.02 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9fd3e338-8516-4fe6-af40-47154b72a9dd")
+		(property "Reference" "U11"
+			(at 285.496 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 287.02 160.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 287.02 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 287.02 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 287.02 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 257.81 203.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a283e2a2-60db-4ab1-8435-165fcf84ddf2")
+		(property "Reference" "U31"
+			(at 257.81 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 213.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "a9c923ce-9cfa-4d14-bae1-673478a6f42c")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "RJ45_Socket_3")
+		(lib_id "Innotech:RJ45_Socket")
+		(at 281.94 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a2cf82c7-6f3f-4193-bfe3-f980918f50a2")
+		(property "Reference" "U9"
+			(at 281.94 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 281.94 123.19 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 281.94 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 281.94 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 281.94 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "ff2f7ccc-7e11-4131-a8d7-36abd4895ad5")
+		)
+		(pin ""
+			(uuid "350299cf-861a-4cf7-b4eb-255b240ba08f")
+		)
+		(pin ""
+			(uuid "ba087ae7-8ba1-4986-8ecb-9574a132e320")
+		)
+		(pin ""
+			(uuid "d6751a01-7966-4ef4-9e04-e0c4efcc060a")
+		)
+		(pin ""
+			(uuid "d900656e-8aa4-4b55-8e54-0711f391bc2f")
+		)
+		(pin ""
+			(uuid "01d1ffce-f7aa-47e3-806a-5e09b5fc2091")
+		)
+		(pin ""
+			(uuid "4d7266ab-a36e-46f2-bef5-5130df03203f")
+		)
+		(pin ""
+			(uuid "92886637-468c-4c6a-883b-dd9f07544d3f")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:RJ45_Breakout")
+		(at 85.09 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a7a53338-3eff-4c20-9b31-883244d9736f")
+		(property "Reference" "U54"
+			(at 83.566 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 85.09 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 85.09 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Temperature_Sensor")
+		(at 330.2 167.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8d2027c-7983-4ddf-9d2f-f02f2fcb99a5")
+		(property "Reference" "U14"
+			(at 300.99 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 330.2 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 257.81 35.56 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a994ef83-bc94-4726-8788-4f7f6cb79aa9")
+		(property "Reference" "U19"
+			(at 257.81 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "e960b12c-3be6-47cf-bd2e-6e0c488b87cc")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Temperature_Sensor")
+		(at 128.27 223.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9ffa084-f88a-488f-89ba-4f603a1790d1")
+		(property "Reference" "U65"
+			(at 99.06 221.488 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 128.27 223.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U65")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 55.88 116.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ba289f7a-69ac-4c17-8380-e52408687c33")
+		(property "Reference" "U40"
+			(at 55.88 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 127 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "04a5f1d7-a50a-4225-8898-b6c514078af0")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Temperature_Sensor")
+		(at 330.2 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb348390-d1e0-4b76-a6d1-b04740e93794")
+		(property "Reference" "U2"
+			(at 300.99 53.848 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 330.2 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 55.88 177.8 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c0619507-ad5d-4ec4-9002-0db42da337f1")
+		(property "Reference" "U45"
+			(at 55.88 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 187.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "8b05405c-ffee-4e06-b5df-dbb7d4123101")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:RJ45_Socket")
+		(at 281.94 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c0f8a397-9166-4b6c-acba-081c157cd24d")
+		(property "Reference" "U4"
+			(at 281.94 12.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 281.94 11.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 281.94 11.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 281.94 11.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 281.94 11.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "314e100e-e82a-439c-bcb2-94323dff980e")
+		)
+		(pin ""
+			(uuid "950f12e8-ec48-432d-a1fb-c6c919e71448")
+		)
+		(pin ""
+			(uuid "f05c6ee1-71d1-47a9-93e6-ac51005fda53")
+		)
+		(pin ""
+			(uuid "4fc6d902-8cf4-41f4-8cda-da7c3fb5fd3e")
+		)
+		(pin ""
+			(uuid "714bc166-af0e-4bed-ad3f-3c17e7ed3900")
+		)
+		(pin ""
+			(uuid "509b4ef3-010d-4b89-aa32-a31d5c0acd71")
+		)
+		(pin ""
+			(uuid "3b40c5cc-5ef2-4c88-9353-c49d270fe134")
+		)
+		(pin ""
+			(uuid "bea5d8b9-2afd-4e6d-8ea9-8941e99fcbc1")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "RJ45_Socket_2")
+		(lib_id "Innotech:RJ45_Socket")
+		(at 281.94 215.9 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c159fc87-9703-4eb6-8ec4-19b68094f175")
+		(property "Reference" "U10"
+			(at 281.94 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 281.94 179.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 281.94 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 281.94 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 281.94 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "6997e37b-930a-4654-8431-c4c27c984113")
+		)
+		(pin ""
+			(uuid "ca390ce8-6b8a-4524-8706-561c0e695246")
+		)
+		(pin ""
+			(uuid "48222881-02f1-4c85-ae1f-526c0ebeb132")
+		)
+		(pin ""
+			(uuid "5d5cd9c4-b7ae-4cde-aeec-588596523c11")
+		)
+		(pin ""
+			(uuid "42c8a5fe-8640-4ca7-ad79-534195c96390")
+		)
+		(pin ""
+			(uuid "070b4b33-7372-4c4f-8e02-26d2f154f00e")
+		)
+		(pin ""
+			(uuid "171969fa-4135-4bef-98cc-44443da3413f")
+		)
+		(pin ""
+			(uuid "a15a9bbb-9c38-48d1-bd51-7f1efe8ec235")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 55.88 86.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c33b0d94-2ac5-4891-8bad-b1b20816ebe1")
+		(property "Reference" "U38"
+			(at 55.88 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "071cd678-eaac-41b8-aded-a2995ed29fe1")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 257.81 198.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5fe23e9-28d6-4863-b793-be4ad219a166")
+		(property "Reference" "U30"
+			(at 257.81 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 208.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "20fbd47f-8f9f-427f-a953-e235b9b99072")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 257.81 66.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c8c3e617-d7c3-42ed-bc55-9ab6d4620584")
+		(property "Reference" "U21"
+			(at 257.81 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 76.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "cc5d89a7-9054-4156-a741-6f60200ccba0")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Chilled_Water_Valve")
+		(at 128.27 209.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9cad5e1-2abb-4fdb-9b29-061646ee4618")
+		(property "Reference" "U64"
+			(at 128.27 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 128.27 201.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Chilled_Water_Valve")
+		(at 330.2 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc95df02-36d5-4ba6-93e5-91e4345c6394")
+		(property "Reference" "U7"
+			(at 330.2 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 330.2 90.17 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Chilled_Water_Valve")
+		(at 330.2 209.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d48e86bd-b0c2-4f69-8ca5-c48d8af1c84f")
+		(property "Reference" "U15"
+			(at 330.2 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 330.2 201.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 257.81 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d57cb075-91ad-4eb9-9cc9-7596f6cec2d5")
+		(property "Reference" "U25"
+			(at 257.81 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "bdf2b220-85a9-4737-b6e8-9f485aafa0fa")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Temperature_Sensor")
+		(at 128.27 167.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dbc5a88e-1a8f-43ac-9e76-fa91080886ec")
+		(property "Reference" "U63"
+			(at 99.06 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 128.27 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 55.88 66.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e353ed55-cf03-4ee8-bf1e-4792655d1922")
+		(property "Reference" "U37"
+			(at 55.88 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 76.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "c794d1fa-7203-4267-8949-6d4059037be9")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "RJ45_Socket_4")
+		(lib_id "Innotech:RJ45_Socket")
+		(at 80.01 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e83a396a-9e69-4f57-ba39-4afaac720d34")
+		(property "Reference" "U52"
+			(at 80.01 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 80.01 123.19 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "80548e7a-713f-4a26-af9b-9fab76c43507")
+		)
+		(pin ""
+			(uuid "175ec18d-262e-46af-9f1c-29621e9549b5")
+		)
+		(pin ""
+			(uuid "46bb5af3-cca1-4232-ba3b-8307424546c7")
+		)
+		(pin ""
+			(uuid "655ab1aa-84fd-435f-a85d-75eb74b3ac9c")
+		)
+		(pin ""
+			(uuid "c4729647-c5b6-4597-821d-0a4ee5cd6ba4")
+		)
+		(pin ""
+			(uuid "b5619ebe-6ba2-4b08-9dfe-3daa8623c382")
+		)
+		(pin ""
+			(uuid "41f909ad-0180-41bf-828b-f1c8461969c4")
+		)
+		(pin ""
+			(uuid "99fbc563-d3c4-4d1f-8218-d3f8f46dfb79")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:Chilled_Water_Valve")
+		(at 330.2 41.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f417dce9-f951-4cd7-a710-07df81632072")
+		(property "Reference" "U1"
+			(at 330.2 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 330.2 34.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:RJ45_Breakout")
+		(at 287.02 104.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f553ef80-d1af-4fcb-9928-fc315d68fcd9")
+		(property "Reference" "U6"
+			(at 285.496 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 287.02 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 287.02 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 287.02 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 287.02 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 55.88 147.32 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f7859ce5-3b4c-4df6-a5c0-62c1a94881bc")
+		(property "Reference" "U43"
+			(at 55.88 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "1e46905d-5ac8-4fea-8abf-23d601283bac")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:RJ45_Breakout")
+		(at 85.09 215.9 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fa3d2b4c-24c7-44b5-8cf0-1eac9b3e38d6")
+		(property "Reference" "U57"
+			(at 83.566 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 85.09 215.9 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 85.09 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_+terminal")
+		(at 55.88 172.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fdb839d8-2e37-4e70-88d1-d78b1e479575")
+		(property "Reference" "U44"
+			(at 55.88 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 88.9 182.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "5f2c82dc-4088-4fd3-a967-5b1d3b1e5239")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Innotech:C40_-terminal")
+		(at 257.81 177.8 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe1d727c-43e2-435e-8ee4-8a129c60a5e4")
+		(property "Reference" "U29"
+			(at 257.81 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 290.83 187.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 290.83 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 290.83 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "b0c2cdd0-7c5b-4966-899b-3aff345b4a72")
+		)
+		(instances
+			(project "nomad40"
+				(path "/5ce10890-ec2e-4d94-ab94-dfd6050270b1/98b3af03-8682-4f7b-bfdb-6bee55508dad"
+					(reference "U29")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
