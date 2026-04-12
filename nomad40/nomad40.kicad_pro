@@ -416,7 +416,7 @@
         "uuid": "5ce10890-ec2e-4d94-ab94-dfd6050270b1"
       }
     ],
-    "used_designators": "U1-65",
+    "used_designators": "U1-116,J1,#PWR1-2,TR1",
     "variants": []
   },
   "sheets": [
@@ -426,7 +426,11 @@
     ],
     [
       "98b3af03-8682-4f7b-bfdb-6bee55508dad",
-      "Tank 1-[1-8]"
+      "TANK 1-[1-8] TEMP & CHWV"
+    ],
+    [
+      "b9d61dfe-2016-4171-aa1a-793f118e60b3",
+      "TANK 2-[1-8] TEMP & CHWV"
     ]
   ],
   "text_variables": {},
